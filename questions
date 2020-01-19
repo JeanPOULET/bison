@@ -1,0 +1,7 @@
+question 10	NAME est défini dans parser.y
+
+question 11	Le(s) symbole(s) définie(nt) avec %left indique que l'association se fait à gauche.
+
+question 12	Les deux directives dans la même déclaration %left ont la même prorité
+
+
